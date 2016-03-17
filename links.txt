@@ -11,6 +11,7 @@ Links
 Filesystem Monitoring
 Tom's Linux Tips
 (Taken from the wikipedia for inotify http://en.wikipedia.org/wiki/Inotify)
+Fine syntax here
 https://sites.google.com/site/tfsidc/filesystem-monitoring
 
 inotify FAQ (Frequently Asked Questions)
