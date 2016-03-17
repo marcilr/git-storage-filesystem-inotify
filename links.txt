@@ -1,0 +1,17 @@
+links.txt
+Created Thu Mar 17 10:36:56 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+inotify related links
+
+
+Links
+=====
+Filesystem Monitoring
+Tom's Linux Tips
+(Taken from the wikipedia for inotify http://en.wikipedia.org/wiki/Inotify)
+https://sites.google.com/site/tfsidc/filesystem-monitoring
+
+inotify FAQ (Frequently Asked Questions)
+http://inotify.aiken.cz/?section=inotify&page=faq
