@@ -1,0 +1,15 @@
+inotify.txt
+Created Thu Mar 17 10:35:28 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Inotify
+
+inotify is an inode-base file system notification mechanism.
+
+
+
+Links
+=====
+inotify FAQ (Frequently Asked Questions)
+http://inotify.aiken.cz/?section=inotify&page=faq
