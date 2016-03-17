@@ -7,3 +7,7 @@ Filelist
 ========
 inotify.txt
   inotify is an inode-base file system notification mechanism.
+
+links.txt
+  inotify related links
+
