@@ -8,8 +8,41 @@ Inotify
 inotify is an inode-base file system notification mechanism.
 
 
+(Taken from the wikipedia for inotify http://en.wikipedia.org/wiki/Inotify)
+
+"........
+  inotify is a Linux kernel subsystem that provides file system event
+  notification.  It was written by John McCutchan with help from Robert Love and
+  later Amy Griffis to replace dnotify.  It was included in the mainline kernel
+  from release 2.6.13 (2005-06-18), and could be compiled into 2.6.12 and
+  possibly earlier releases by use of a patch.  Its function is essentially an
+  extension to filesystems to notice changes to the filesystem, and report
+  those changes to applications.
+
+  Its major use is therefore arguably in desktop search utilities like Beagle,
+  where its functionality permits reindexing of changed files without scanning
+  the filesystem for changes every few minutes, which would be very
+  inefficient.  By being told that a file has changed directly by the kernel,
+  rather than actively looking, Beagle and such utilities can achieve
+  change-to-reindexing times of only about a second, with very small
+  performance hits (inotify therefore enables the use of such programs in a
+  sensible manner; daemons are generally not accepted by distributors if they
+  drain system performance noticeably to provide userland functionality.
+ [citation needed])
+
+  It can also be used to automatically update directory views, reload
+  configuration files, log changes, backup, synchronize, and upload.
+............"
+
+--sites.google.com/site/tfsidc/filesystem-monitoring
+
 
 Links
 =====
+Filesystem Monitoring
+Tom's Linux Tips
+(Taken from the wikipedia for inotify http://en.wikipedia.org/wiki/Inotify)
+https://sites.google.com/site/tfsidc/filesystem-monitoring
+
 inotify FAQ (Frequently Asked Questions)
 http://inotify.aiken.cz/?section=inotify&page=faq
