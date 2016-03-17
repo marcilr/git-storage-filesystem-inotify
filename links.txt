@@ -16,3 +16,18 @@ https://sites.google.com/site/tfsidc/filesystem-monitoring
 
 inotify FAQ (Frequently Asked Questions)
 http://inotify.aiken.cz/?section=inotify&page=faq
+
+Is there a file search engine like "Everything" in Linux?
+You may have a look at rlocate, a reimplementation of locate that is always
+up-to-date.  Another interesting project is recoll which also supports real
+time indexing and allows you (like beagle) additionally do full-text searches.
+Finally I should mention doodle which also supports real time indexing.  For
+doodle there are some nice frontends like catfish.
+Note that you can also make (r)locate results clickable by using for example
+urxvt as terminal-emulator and by writing something like
+  URxvt.perl-ext: default,matcher URxvt.urlLauncher: /usr/bin/gnome-open     
+  URxvt.matcher.button: 1 URxvt.matcher.pattern.1: /.*
+(and executing xrdb -load ~/.Xdefaults afterwards)
+edited Sep 12 '15 at 6:37
+answered Feb 7 '12 at 20:31 by student
+http://unix.stackexchange.com/questions/31063/is-there-a-file-search-engine-like-everything-in-linux
