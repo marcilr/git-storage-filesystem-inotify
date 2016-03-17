@@ -8,14 +8,26 @@ inotify related links
 
 Links
 =====
+catfish
+http://www.twotoasts.de/index.php/catfish/
+
+doodle
+http://grothoff.org/christian/doodle/
+
 Filesystem Monitoring
 Tom's Linux Tips
 (Taken from the wikipedia for inotify http://en.wikipedia.org/wiki/Inotify)
 Fine syntax here
 https://sites.google.com/site/tfsidc/filesystem-monitoring
 
+Inotify: Efficient, Real-Time Linux File System Event Monitoring
+http://www.infoq.com/articles/inotify-linux-file-system-event-monitoring
+
 inotify FAQ (Frequently Asked Questions)
 http://inotify.aiken.cz/?section=inotify&page=faq
+
+Inotify - man page
+http://man7.org/linux/man-pages/man7/inotify.7.html
 
 Is there a file search engine like "Everything" in Linux?
 You may have a look at rlocate, a reimplementation of locate that is always
@@ -31,3 +43,13 @@ urxvt as terminal-emulator and by writing something like
 edited Sep 12 '15 at 6:37
 answered Feb 7 '12 at 20:31 by student
 http://unix.stackexchange.com/questions/31063/is-there-a-file-search-engine-like-everything-in-linux
+
+Searchmonkey
+https://apps.ubuntu.com/cat/applications/precise/searchmonkey/
+
+recoll
+http://www.lesbonscomptes.com/recoll/
+
+rlocate
+http://rlocate.sourceforge.net/
+
