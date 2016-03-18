@@ -20,6 +20,9 @@ Tom's Linux Tips
 Fine syntax here
 https://sites.google.com/site/tfsidc/filesystem-monitoring
 
+How to use inotify-tools to trigger scripts on filesystem events
+http://techarena51.com/index.php/inotify-tools-example/
+
 Inotify: Efficient, Real-Time Linux File System Event Monitoring
 http://www.infoq.com/articles/inotify-linux-file-system-event-monitoring
 
