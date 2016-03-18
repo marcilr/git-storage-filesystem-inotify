@@ -5,6 +5,9 @@ Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+dependencies.txt
+  Dependencies for inotify
+
 inotify.txt
   inotify is an inode-base file system notification mechanism.
 
