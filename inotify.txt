@@ -46,6 +46,14 @@ This can take a significant amount time for large directory trees.
 --man7.org/linux/man-pages/man7/inotify.7.html
 
 
+Fri Mar 18 14:49:55 AKDT 2016
+=============================
+John D. Millican <jmillican@gci.com> says to inotify to watch for close and
+write to determine when a new file has been created to take action on.
+
+
+
+
 Links
 =====
 Filesystem Monitoring
