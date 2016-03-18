@@ -1,0 +1,28 @@
+dependencies.txt
+Created Fri Mar 18 14:31:22 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Dependencies for inotify
+
+
+From Whitham Reeve <wreeve@gci.com> Friday, March 18, 2016.
+
+
+inotify and inotify-tools
+
+
+prod-prov4-cdr1.operations.gci.com (192.168.161.47) 
+==================================
+@prod-prov4-cdr1 ~]$ yum list | grep inotify
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+inotify-tools.i386                     3.14-1.el5                epel           
+inotify-tools.x86_64                   3.14-1.el5                epel           
+inotify-tools-devel.i386               3.14-1.el5                epel           
+inotify-tools-devel.x86_64             3.14-1.el5                epel           
+python-inotify.noarch                  0.9.1-1.el5               epel           
+python-inotify-examples.noarch         0.9.1-1.el5               epel           
+python26-inotify.noarch                0.9.1-1.el5               epel           
+[hnmadm@prod-prov4-cdr1 ~]$ 
+
+inotify is part of the kernel and inotify-tools is installed.
